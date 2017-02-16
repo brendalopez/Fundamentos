@@ -2,5 +2,7 @@
 
 int main(){
 	printf("Hola mundo");
-	return 0;
+	printf("Lòpez Hermosillo Brenda");
+	printf("al fin lo logre")
+preturn 0;
 }
